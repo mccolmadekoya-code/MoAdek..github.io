@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Understanding the Ethical Problem on MoAdekoya Profile</title>
+		<link>http://localhost:1313/tags/understanding-the-ethical-problem/</link>
+		<description>Recent content in Understanding the Ethical Problem on MoAdekoya Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/understanding-the-ethical-problem/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Anonymous or Not? The Ethical Challenges of Student Course Surveys in Data Science</title>
+				<link>http://localhost:1313/blogs/markdown-syntax/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/markdown-syntax/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Student feedback surveys are widely used by educational institutions to evaluate course quality, instructor effectiveness, and opportunities for improvement. The goal is often positive: gathering honest feedback that can help improve learning experiences. However, even well-intentioned data collection efforts can raise serious ethical concerns when they are not designed carefully.&lt;/p&gt;&#xA;&lt;p&gt;Consider a survey that students access through a web link. Students must log in using their organizational username and password before completing the survey. The survey claims that responses are anonymous and does not ask participants for their names. Executive management intends to use the survey results to identify courses that may require redesign or updates. As the data analyst responsible for reviewing the results, it is important to evaluate not only the data itself but also the ethical implications of how the data is collected and used.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
